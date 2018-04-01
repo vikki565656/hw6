@@ -17,14 +17,11 @@
 С какими дополнениями (objects) могут употребляться синонимичные глаголы "move" и "go":
 ![](https://github.com/vikki565656/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA5.PNG)
 
-Согласно этой таблице:
-![](https://github.com/vikki565656/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%206.PNG)
-
-можно привести следующие примеры:
-1.1 It was a similar story when Haslam moved to become deputy chairman. (могут употребляться оба слова)
-1.2 The last I heard Trish was going to become a teacher. (могут употребляться оба слова)
-2. You're still going to have problems repaying your mortgage. (только go)
-3. Argentina and Belize moved to establish relations at ambassadorial level. (только move)
+Можно привести следующие примеры:
+1.1 He	moved	a step away from her. (могут употребляться оба слова)
+1.2 Indeed, Polybius appears to have	gone	a step further. (могут употребляться оба слова)
+2. Leonora felt utterly flattened as he left her to	go	upstairs. (только go)
+3. Call upon Mrs to	move	the motion. (только move)
 
 ## Бонусное задание
 Если сравнить частотности слова "construed" в BNC и  Google Ngrams за одинаковый период времени  
